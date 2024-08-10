@@ -13,6 +13,8 @@ This project involved the design, simulation, and implementation of an Arithmeti
 2. **ALU Functional Testing:**
    - Several test cases were simulated, focusing on addition with carry, logical AND, and OR operations.
    - The results confirmed that the ALU performed as expected.
+<img width="1026" alt="ALU" src="https://github.com/user-attachments/assets/3ab4f98d-16e4-4f20-aa94-6139c7fef62a">
+
 
 ### RALU Design
 
@@ -26,6 +28,9 @@ This project involved the design, simulation, and implementation of an Arithmeti
 3. **Complex Functions Implementation:**
    - The project implemented complex functions such as loading registers, bitwise AND/OR operations, and performing arithmetic shifts.
    - Simulations were conducted for each complex function, and the results were annotated for clarity.
+  
+<img width="1089" alt="RALU" src="https://github.com/user-attachments/assets/a9c9ac6c-0968-49c0-b9b5-79870a00ef99">
+
 
 ### Simulation and Implementation
 
